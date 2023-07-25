@@ -1,0 +1,96 @@
+<mxfile host="65bd71144e">
+    <diagram id="-Tdk7S5JmqktmcSReCMu" name="ページ1">
+        <mxGraphModel dx="555" dy="312" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFAFB" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" value="管理サーバ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="20" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="50" y="30" width="450" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="PC" style="whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="20" y="30" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="PC" style="whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="30" y="210" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="PC" style="whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="310" y="240" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="サーバ" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="315" y="20" width="70" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="クライアント端末" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="利用者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="30" y="90" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="利用者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="40" y="270" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="管理者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="320" y="300" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="25">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="110" y="40" as="sourcePoint"/>
+                        <mxPoint x="270" y="40" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="検索条件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="150" y="20" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="25">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="270" y="70" as="sourcePoint"/>
+                        <mxPoint x="110" y="70" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="220" y="70"/>
+                            <mxPoint x="190" y="70"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="抽出データ&lt;span style=&quot;font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22edgeStyle%3Dnone%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%22100%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22180%22%20y%3D%22250%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22340%22%20y%3D%22130%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="145" y="70" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="25">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="130" y="220" as="sourcePoint"/>
+                        <mxPoint x="290" y="100" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="25">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="300" y="120" as="sourcePoint"/>
+                        <mxPoint x="140" y="240" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="検索条件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="140" y="145" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="抽出データ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="200" y="180" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="取引企業情報" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="300" y="90" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=1.086;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="25" target="22">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="350" y="230" as="sourcePoint"/>
+                        <mxPoint x="400" y="200" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="取引企業情報&lt;br&gt;登録・保守" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="25">
+                    <mxGeometry x="350" y="160" width="100" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
